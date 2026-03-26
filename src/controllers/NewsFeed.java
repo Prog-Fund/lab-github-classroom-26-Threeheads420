@@ -30,7 +30,7 @@ public class NewsFeed {
         }
 
         if (str.isEmpty()){
-            return "No Posts";
+            return "No More Posts";
         }
         else {
             return str;
